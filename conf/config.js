@@ -40,7 +40,7 @@ exports.config = {
     cucumberOpts: {
       format:'json:reports/cucumber_report.json',
       require: [ 
-          '../stepDef/*.steps.js',
+          '../stepDefinition/*.steps.js',
           '../hooks/*.js'
         ]
     }
