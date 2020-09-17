@@ -21,11 +21,11 @@
             "line": 4,
             "name": "Amazon.co.uk is open",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:14"
+              "location": "stepDefinition\\addItemToCart.steps.js:14"
             },
             "result": {
               "status": "passed",
-              "duration": 6492000000
+              "duration": 6034000000
             }
           },
           {
@@ -34,11 +34,11 @@
             "line": 5,
             "name": "I click Sign-in",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:18"
+              "location": "stepDefinition\\addItemToCart.steps.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 1540000000
+              "duration": 1901000000
             }
           },
           {
@@ -47,11 +47,11 @@
             "line": 6,
             "name": "enter valid 'username' as 'rkkiran2020@gmail.com'",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:21"
+              "location": "stepDefinition\\addItemToCart.steps.js:21"
             },
             "result": {
               "status": "passed",
-              "duration": 226000000
+              "duration": 182000000
             }
           },
           {
@@ -60,7 +60,7 @@
             "line": 7,
             "name": "I 'Continue'",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:24"
+              "location": "stepDefinition\\addItemToCart.steps.js:24"
             },
             "result": {
               "status": "passed",
@@ -73,11 +73,11 @@
             "line": 8,
             "name": "enter valid 'password' as 'ITGpassw0rd'",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:21"
+              "location": "stepDefinition\\addItemToCart.steps.js:21"
             },
             "result": {
               "status": "passed",
-              "duration": 1329000000
+              "duration": 1209000000
             }
           },
           {
@@ -86,11 +86,11 @@
             "line": 9,
             "name": "I 'signed in'",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:24"
+              "location": "stepDefinition\\addItemToCart.steps.js:24"
             },
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 3000000
             }
           },
           {
@@ -99,11 +99,11 @@
             "line": 10,
             "name": "I am logged in",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:29"
+              "location": "stepDefinition\\addItemToCart.steps.js:29"
             },
             "result": {
               "status": "passed",
-              "duration": 5063000000
+              "duration": 4793000000
             }
           },
           {
@@ -112,11 +112,11 @@
             "line": 13,
             "name": "when I search for 'iceworks 5000'",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:34"
+              "location": "stepDefinition\\addItemToCart.steps.js:34"
             },
             "result": {
               "status": "passed",
-              "duration": 2642000000
+              "duration": 3009000000
             }
           },
           {
@@ -125,11 +125,11 @@
             "line": 14,
             "name": "the search results are displayed",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:37"
+              "location": "stepDefinition\\addItemToCart.steps.js:37"
             },
             "result": {
               "status": "passed",
-              "duration": 70000000
+              "duration": 65000000
             }
           },
           {
@@ -138,11 +138,11 @@
             "line": 15,
             "name": "the search results has the 'iceworks 5000' in it",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:41"
+              "location": "stepDefinition\\addItemToCart.steps.js:41"
             },
             "result": {
               "status": "passed",
-              "duration": 2356000000
+              "duration": 2145000000
             }
           },
           {
@@ -151,11 +151,11 @@
             "line": 16,
             "name": "I add \"iceworks 5000\" to my basket",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:44"
+              "location": "stepDefinition\\addItemToCart.steps.js:44"
             },
             "result": {
               "status": "passed",
-              "duration": 5380000000
+              "duration": 4235000000
             }
           },
           {
@@ -164,11 +164,11 @@
             "line": 17,
             "name": "I check my basket total",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:49"
+              "location": "stepDefinition\\addItemToCart.steps.js:49"
             },
             "result": {
               "status": "passed",
-              "duration": 1528000000
+              "duration": 1260000000
             }
           },
           {
@@ -177,11 +177,11 @@
             "line": 18,
             "name": "it should match the price of the item added into basket",
             "match": {
-              "location": "stepDef\\addItemToCart.steps.js:54"
+              "location": "stepDefinition\\addItemToCart.steps.js:54"
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           },
           {
